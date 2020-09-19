@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e46f0f-c3b8-4045-a16f-a55a71fa34ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1hiQR4f4YBa2gER9MiO6qj58NhM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.test:watch">
+    <configuration name="Fizzbuzz" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/test/fizzbuzz.spec.ts" />
+      <test-names>
+        <test-name value="Fizzbuzz" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Fizzbuzz.fizz() should return fizz if divisible by 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/fizzbuzz.spec.ts" />
+      <test-names>
+        <test-name value="Fizzbuzz" />
+        <test-name value="fizz() should return fizz if divisible by 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test:watch" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:watch" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test:watch" />
+        <item itemvalue="Jest.Fizzbuzz" />
+        <item itemvalue="Jest.Fizzbuzz.fizz() should return fizz if divisible by 3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e46f0f-c3b8-4045-a16f-a55a71fa34ff" name="Default Changelist" comment="" />
+      <created>1600491421807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600491421807</updated>
+      <workItem from="1600491422843" duration="4522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="-722" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600499263627">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="715" y="-722" key="#com.intellij.fileTypes.FileTypeChooser/0.-1057.1920.1057/1920.-1057.1080.1897/0.23.1920.1057@0.-1057.1920.1057" timestamp="1600499263627" />
+    <state width="1900" height="288" key="GridCell.Tab.0.bottom" timestamp="1600500370666">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1900" height="288" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/1920.-1057.1080.1897/0.23.1920.1057@0.-1057.1920.1057" timestamp="1600500370666" />
+    <state width="1900" height="288" key="GridCell.Tab.0.center" timestamp="1600500370665">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1900" height="288" key="GridCell.Tab.0.center/0.-1057.1920.1057/1920.-1057.1080.1897/0.23.1920.1057@0.-1057.1920.1057" timestamp="1600500370665" />
+    <state width="1900" height="288" key="GridCell.Tab.0.left" timestamp="1600500370665">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1900" height="288" key="GridCell.Tab.0.left/0.-1057.1920.1057/1920.-1057.1080.1897/0.23.1920.1057@0.-1057.1920.1057" timestamp="1600500370665" />
+    <state width="1900" height="288" key="GridCell.Tab.0.right" timestamp="1600500370666">
+      <screen x="0" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1900" height="288" key="GridCell.Tab.0.right/0.-1057.1920.1057/1920.-1057.1080.1897/0.23.1920.1057@0.-1057.1920.1057" timestamp="1600500370666" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    // Ensure that .d.ts files are created by tsc, but not .js files
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    // Ensure that Babel can safely transpile files in the TypeScript project
+    "isolatedModules": true,
+    "outDir": "build",
+    "rootDir": ".",
+    "strict": true,
+    "noUnusedLocals": true,
+    "types": ["node", "jest"],
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "src",
+    "test",
+  ],
+  "exclude": ["node_modules", "build"]
+}
